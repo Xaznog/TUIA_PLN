@@ -1,0 +1,255 @@
+label,estado_animo
+positivo,Lleno de amor
+positivo,Positivo
+positivo,Empático
+positivo,Encantado
+positivo,Animado
+positivo,Listo para crear algo maravilloso
+positivo,Entregado
+positivo,Motivado
+positivo,Reconfortado
+positivo,Me siento en la cima del mundo
+positivo,Solidario
+positivo,Feliz
+positivo,Todo es posible hoy
+positivo,Estoy en paz conmigo mismo
+positivo,Feliz de estar aquí
+positivo,Listo para cualquier cosa
+positivo,Confiado
+positivo,Esperanzado
+positivo,Valiente
+positivo,Cuidado
+positivo,Seguro de sí mismo
+positivo,Satisfecho
+positivo,Amado
+positivo,Divertido
+positivo,Cariñoso
+positivo,Me siento profundamente relajado
+positivo,Entusiasmado
+positivo,En paz
+positivo,Eufórico
+positivo,Energético
+positivo,Simpático
+positivo,Siento paz interior
+positivo,Emocionado
+positivo,Todo parece brillar hoy
+positivo,Un día para disfrutar al máximo
+positivo,Llena de energía
+positivo,Hoy todo va bien
+positivo,Relajado
+positivo,Amado y apreciado
+positivo,Agradecido por lo que tengo
+positivo,Agradecido
+positivo,Fortalecido
+positivo,Con mucha gratitud
+positivo,Optimismo a flor de piel
+positivo,Sociable
+positivo,Inspirado
+positivo,Tranquilo
+positivo,Optimista
+positivo,Creativo
+positivo,Aventurero
+positivo,Orgulloso de mis logros
+positivo,Siento un amor inmenso
+positivo,Con una chispa de inspiración
+positivo,Orgulloso
+positivo,Contento
+neutro,Pensativo
+neutro,Me siento pensativo
+neutro,Aceptando
+neutro,Comedido
+neutro,Sin emociones fuertes
+neutro,Imparcial
+neutro,Desconfiado
+neutro,Todo en calma
+neutro,Perplejo
+neutro,Complaciente
+neutro,Rutinario
+neutro,Simplemente bien
+neutro,Neutral
+neutro,Sereno
+neutro,Sin expectativas fuertes
+neutro,Concentrado
+neutro,Simplemente otro día más
+neutro,Estoy bien
+neutro,Nada fuera de lo común
+neutro,Sosegado
+neutro,Equilibrado
+neutro,Atento a los detalles
+neutro,Desinteresado
+neutro,Calmado
+neutro,Distante
+neutro,Estoy conforme
+neutro,Indiferente
+neutro,No siento emociones fuertes
+neutro,Inseguro
+neutro,Observando la situación
+neutro,Hoy me siento neutral
+neutro,Cansado
+neutro,Silencioso
+neutro,Un día tranquilo
+neutro,Reservado
+neutro,Aceptando el día tal como es
+neutro,Sin mucho que decir
+neutro,Todo parece normal
+neutro,Insensible
+neutro,Inalterable
+neutro,Nada que destacar
+neutro,Apático
+neutro,Atento
+neutro,Expectante
+neutro,Tolerante
+neutro,Despreocupado
+neutro,Hoy estoy en calma
+neutro,Concentrado en mis tareas
+neutro,Moderado
+neutro,Precavido
+neutro,Reflexivo
+neutro,Paciente
+neutro,Manteniendo una perspectiva equilibrada
+neutro,Observador
+negativo,Todo parece oscuro
+negativo,Desamparado
+negativo,Envidioso
+negativo,Enfrentando mis miedos
+negativo,Celoso
+negativo,Todo parece complicado
+negativo,No sé en qué creer
+negativo,Perdí mi rumbo
+negativo,Enojado
+negativo,Despreciado
+negativo,No puedo dejar de preocuparme
+negativo,Nada parece motivarme
+negativo,Sin fuerzas para seguir
+negativo,Desanimado y sin energía
+negativo,Es un día difícil
+negativo,Abatido
+negativo,Ofendido
+negativo,Irritado
+negativo,Desconsolado
+negativo,Rechazado
+negativo,Hoy me siento vulnerable
+negativo,Agobiado
+negativo,Vulnerable
+negativo,Frustrado
+negativo,Avergonzado
+negativo,Tengo muchas dudas
+negativo,Me siento agotado
+negativo,Ansioso
+negativo,Siento una profunda tristeza
+negativo,Pesimista
+negativo,Temeroso
+negativo,Enfadado
+negativo,Desesperado
+negativo,Arrepentido
+negativo,No encuentro consuelo
+negativo,Desilusionado
+negativo,Preocupado
+negativo,Triste
+negativo,Humillado
+negativo,Me siento incomprendido
+negativo,Solo
+negativo,Siento una gran soledad
+negativo,Deprimido
+negativo,Es difícil lidiar con esto
+negativo,Dolido
+negativo,Tenso
+negativo,Indignado
+negativo,Estresado
+negativo,Amargado
+negativo,Desesperanzado
+negativo,Desmotivado
+negativo,Nada parece ir bien
+negativo,Rencoroso
+negativo,Melancólico
+negativo,Nada me sale bien
+positivo,Piola
+positivo,Re copado
+positivo,Chocho
+positivo,Con toda la polenta
+positivo,Estoy al taco
+positivo,De diez
+positivo,Estoy hecho un bacán
+positivo,Para tirar manteca al techo
+positivo,Estar al palo
+neutro,Tranca
+neutro,En la mía
+neutro,Ahí nomás
+neutro,Tranqui
+neutro,Todo piola
+neutro,Sigue la corriente
+neutro,Sin hacer mucha bulla
+neutro,Todo normal
+neutro,En mi mambo
+negativo,Hecho bolsa
+negativo,Re bajón
+negativo,Para atrás
+negativo,Embajonado
+negativo,Depre
+negativo,No doy pie con bola
+negativo,Para el cachetazo
+negativo,Al horno
+negativo,Hecho pelota
+negativo,De caída libre
+positivo,Estoy en la gloria
+positivo,Recontra feliz
+positivo,Radiante de alegría
+positivo,Como pez en el agua
+positivo,En mi salsa
+positivo,Con un subidón de energía
+positivo,Estoy re pila
+positivo,Brotando de entusiasmo
+positivo,Iluminado
+positivo,Siento mariposas
+positivo,Positivo a tope
+positivo,Arriba como nunca
+positivo,Como en un sueño
+positivo,Con el corazón lleno
+positivo,Inspiración total
+positivo,Todo me sonríe
+positivo,Pleno de confianza
+positivo,Ampliamente satisfecho
+positivo,Espectacularmente bien
+neutro,En paz y tranquilo
+neutro,Día a día
+neutro,Típico día de rutina
+neutro,En equilibrio
+neutro,De mente abierta
+neutro,Sin altibajos
+neutro,Todo está estable
+neutro,Un poco en el limbo
+neutro,Analizando cosas
+neutro,En piloto automático
+neutro,Nada relevante
+neutro,Cuerpo presente
+neutro,Una jornada cualquiera
+neutro,Sin presión
+neutro,Como de costumbre
+neutro,Atento a lo que viene
+neutro,Sin mucho cambio
+neutro,Me siento regular
+neutro,Pasando el rato
+neutro,En pausa
+negativo,Sin rumbo
+negativo,Atrapado en el bajón
+negativo,Con la moral baja
+negativo,Como un zombie
+negativo,Golpeado por la vida
+negativo,Arrastrando los pies
+negativo,Desalentado
+negativo,Siento una carga
+negativo,Nublado y perdido
+negativo,Con el ánimo roto
+negativo,Desganado
+negativo,Apesadumbrado
+negativo,Con el pecho pesado
+negativo,En una espiral
+negativo,Es un día negro
+negativo,Patas arriba
+negativo,Siento un vacío
+negativo,Todo en declive
+negativo,Un peso encima
+negativo,Un saco de preocupaciones
+negativo,Inseguro
+neutro,Relajado
+negativo,Cansado
